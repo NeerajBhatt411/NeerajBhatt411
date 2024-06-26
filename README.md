@@ -1,7 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5616AQF_IDne_PS7BA/profile-displaybackgroundimage-shrink_350_1400/0/1719352347939?e=1724889600&v=beta&t=BS99MzU3Mb2wYkYEZFVoMcwnW_LAAKjHJ18fkSFChIM)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Neeraj Bhatt</h1>
 <h3 align="center">A passionate flutter developer from Inida</h3>
-      <img align = "right" alt="Coding" width="400" src="https://www.manobal.com/wp-content/uploads/2023/07/Animation-for-Mobile-App-scaled.jpg " alt="">
+      <img align = "right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?size=626&ext=jpg&ga=GA1.1.1141335507.1719273600&semt=ais_user" alt="">
 
 
 - 🌱 I’m currently learning **flutter ,dart react**
