@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/D4D16AQHfmHMe1AczNw/profile-displaybackgroundimage-shrink_350_1400/0/1686625139608?e=1724889600&v=beta&t=WG4o0H5Oao00AOYqSbiB0NWfIIWVJ93iRsPWBFI2xH0)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Neeraj Bhatt</h1>
-<h3 align="center">A passionate flutter developer from Inida</h3>
+<h3 align="center">A passionate Flutter Developer from India</h3>
       <img align = "right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?size=626&ext=jpg&ga=GA1.1.1141335507.1719273600&semt=ais_user" alt="">
 
 
