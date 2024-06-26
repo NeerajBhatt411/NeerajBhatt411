@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://media.licdn.com/dms/image/D5616AQF_IDne_PS7BA/profile-displaybackgroundimage-shrink_350_1400/0/1719352347939?e=1724889600&v=beta&t=BS99MzU3Mb2wYkYEZFVoMcwnW_LAAKjHJ18fkSFChIM)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Neeraj Bhatt</h1>
 <h3 align="center">A passionate flutter developer from Inida</h3>
       <img align = "right" alt="Coding" width="400" src="https://www.manobal.com/wp-content/uploads/2023/07/Animation-for-Mobile-App-scaled.jpg " alt="">
